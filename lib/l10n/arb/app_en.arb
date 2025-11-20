@@ -1,0 +1,18 @@
+{
+  "@@locale": "en",
+  "appTitle": "Flutter Framework",
+  "homeTab": "Home",
+  "networkTab": "Network",
+  "storageTab": "Storage",
+  "settingsTab": "Settings",
+  "counterLabel": "You have pushed the button this many times:",
+  "incrementTooltip": "Increment",
+  "changeTheme": "Change Theme",
+  "changeLanguage": "Change Language",
+  "fetchData": "Fetch Data",
+  "saveData": "Save Data",
+  "loadData": "Load Data",
+  "enterText": "Enter text to save",
+  "dataSaved": "Data saved!",
+  "noData": "No data found"
+}

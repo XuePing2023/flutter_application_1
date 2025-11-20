@@ -1,0 +1,18 @@
+{
+  "@@locale": "zh",
+  "appTitle": "Flutter 框架",
+  "homeTab": "首页",
+  "networkTab": "网络",
+  "storageTab": "存储",
+  "settingsTab": "设置",
+  "counterLabel": "你已经点击了按钮这么多次：",
+  "incrementTooltip": "增加",
+  "changeTheme": "切换主题",
+  "changeLanguage": "切换语言",
+  "fetchData": "获取数据",
+  "saveData": "保存数据",
+  "loadData": "加载数据",
+  "enterText": "输入要保存的文本",
+  "dataSaved": "数据已保存！",
+  "noData": "未找到数据"
+}
